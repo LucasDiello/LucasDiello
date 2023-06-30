@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0D097E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Diello;I'm+20+years+old;I'm+from+Brazil;I'm+Learning+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasDiello&bg_color=0d1117&color=0D097E&line=000000&point=0D097E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LucasDiello&theme=omni&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
