@@ -1,7 +1,7 @@
 # Hello, I'm Lucas Diello 👋
 
 
-<p align="center">I solve great challenges using tech. <br><br> From backend development using node to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack developer</strong> focused on front-end</p>&nbsp;
+<p align="center">Resolvo problemas usando tecnologia a meu favor. <br><br> Desde a criação de APIs REST no backend com Java Spring Boot e Node.js, Express, até o desenvolvimento de interfaces no frontend com ReactJS e NextJS, sou <strong>tenho um constante interesse em explorar novas possibilidades</strong> e usá-las para criar soluções de qualidade. Hoje sou um <strong>desenvolvedor full stack</strong> com foco em front-end!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <!-- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LucasDiello&theme=radical&mode=weekly" /> -->
