@@ -1,4 +1,4 @@
-# Hello, I'm Lucas Diello 👋
+# Ola, Me chamo Lucas Diello 👋
 
 
 <p align="center">Resolvo problemas usando tecnologia a meu favor. <br><br> Desde a criação de APIs REST no backend com Java Spring Boot, Node.js e Express, até o desenvolvimento de interfaces no frontend com ReactJS e NextJS, tenho um constante interesse em explorar novas possibilidades e usá-las para criar soluções de qualidade. Hoje sou um <strong>desenvolvedor full stack com foco em front-end!</strong></p>&nbsp;
